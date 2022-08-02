@@ -1,0 +1,20 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "shawshank",
+      "rating": 9.2,
+      "description": "escape prison",
+      "genre": "its a genre",
+      "cast": ["person1", "person2", "person3"]
+    },
+    {
+      "id": 2,
+      "name": "spider man",
+      "rating": 8.8,
+      "description": "throw webs all around",
+      "genre": "spider web developer",
+      "cast": ["person1", "person2", "person3"]
+    }
+  ]
+}
