@@ -15,6 +15,14 @@
       "description": "throw webs all around",
       "genre": "spider web developer",
       "cast": ["person1", "person2", "person3"]
+    },
+    {
+      "id": 3,
+      "name": "captain america",
+      "rating": 8.5,
+      "description": "I like captain",
+      "genre": "captain genre",
+      "cast": ["person2"]
     }
   ]
 }
